@@ -1,0 +1,21 @@
+﻿Build started 12/11/2014 10:45:41 AM.
+     1>Project "C:\Users\Jonathan!\documents\visual studio 2010\Projects\Group Project\Group Project\Group Project.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Group Project.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\cygwin64\dev\opengl\glew-1.9.0\glew-1.9.0\include" /IC:\cygwin64\dev\opengl\freeglut\freeglut\include /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt project.cpp
+         project.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jonathan!\documents\visual studio 2010\Projects\Group Project\Debug\Group Project.exe" /NOLOGO /LIBPATH:"C:\cygwin64\dev\opengl\glew-1.9.0\glew-1.9.0\lib" /LIBPATH:C:\cygwin64\dev\opengl\freeglut\freeglut\lib glew32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Group Project.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jonathan!\documents\visual studio 2010\Projects\Group Project\Debug\Group Project.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jonathan!\documents\visual studio 2010\Projects\Group Project\Debug\Group Project.lib" /MACHINE:X86 Debug\project.obj
+         LINK : C:\Users\Jonathan!\documents\visual studio 2010\Projects\Group Project\Debug\Group Project.exe not found or not built by the last incremental link; performing full link
+         Group Project.vcxproj -> C:\Users\Jonathan!\documents\visual studio 2010\Projects\Group Project\Debug\Group Project.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Jonathan!\documents\visual studio 2010\Projects\Group Project\Debug\Group Project.exe;#1" /manifest "Debug\Group Project.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Group Project.unsuccessfulbuild".
+         Touching "Debug\Group Project.lastbuildstate".
+     1>Done Building Project "C:\Users\Jonathan!\documents\visual studio 2010\Projects\Group Project\Group Project\Group Project.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.96
